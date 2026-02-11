@@ -18,5 +18,4 @@
       ]
     }
 
-## if using Chinese, Chinese language task must lead low hit rate like that example : 
-    a.js#0(0), a.js#1(0), a.js#2(0), a.js#3(0), a.js#4(0), a.js#5(0), a.js#6(0), a.js#7(0)
+## if you want to use the Typescript vertion, plz switch to rewrite-by-TS branch
